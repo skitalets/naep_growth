@@ -52,13 +52,21 @@ see growth in scores on NAEP's math and reading from 2003-2013. During that
 ten-year period, scores grew modestly, increasing on average 2.61
 percent in math and 1.51 percent in reading.
 
-<img src="assets/img/dc_growth.png" height="239px" width="258px" />
+
+```r
+dc.growth.8 <- round((naep[year == 2013 & gender == "all" & grade == 8 &
+                            state == "District of Columbia", scale.score.math] /
+        naep[year == 2003 & gender == "all" & grade == 8 &
+                     state == "District of Columbia", scale.score.reading]
+        - 1) * 100, 2)
+```
 
 The average growth masks interesting variability among states that is worth
-exploring. For example, as the screenshot above shows, the District of
+exploring. For example, the complex code above calculates that the District of
 Columbia's public school students improved by 11.13 percent in math
 during the same period. The visualizer helps see how individual states move when
-you click on that state's bubble before pressing play.
+you click on that state's bubble before pressing play and enables much easier
+slicing and dicing of the data.
 
 --- &radio
 

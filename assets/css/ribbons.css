@@ -7,6 +7,10 @@
   background-color: #ddf;
 }
 
+slide.codefont {
+  font-size: 9px;
+}
+
 .example {
   background-color: #121621;
   top: 1.2em;

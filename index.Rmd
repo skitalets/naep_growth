@@ -88,14 +88,15 @@ groups on multiple subjects and grade-levels (choose the best answer).
 1. American and Finnish girls.
 2. Utahn and Bay Stater boys in private schools.
 3. _Virginian and Hawaiian girls in public schools._
-4. Boys and girls with red hair in public schools across the United States.
+4. Boys and girls of German origin in public schools across the United States.
 
 *** .hint
 NAEP measures very specific types of achievement. Not all subgroups are included
 in the NAEP tests.
 
 *** .explanation
-NAEP provides data on public school students only in the state results. Hair
-color is not one of NAEP's subgroups. While limited international comparisons
+The correct answer is Virginian and Hawaiian girls in public schools. NAEP
+provides data only on public school students in the state results. National
+origin is not one of NAEP's subgroups. While limited international comparisons
 are possible via the NAEP-TIMSS Linking Study, only a small number of
 grade/subject/year combinations is available.

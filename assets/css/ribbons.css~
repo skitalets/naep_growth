@@ -3,7 +3,7 @@
 /* Define classes for example, definition, problem etc. */
 /* Choose meaningful colors for background and text */
 
-.title-slide {
+.title-page {
   background-color: #ddf;
 }
 

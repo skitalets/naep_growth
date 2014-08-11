@@ -20,6 +20,10 @@ subjects. NAEP is not a test of *individual* or even school-level achievement;
 it measures how students throughout the country are achieving, with breakouts
 for some tests by state, race, gender, and socioeconomic status.
 
+As you'll see in this presentation, the [NAEP Visualizer](http://skitalets.shinyapps.io/naep/)
+allows users to build animations of growth on this important standardized
+test easily, slicing the data based on gender and grade level.
+
 ---
 
 ## NAEP Differs from "High-Stakes" State Tests
@@ -53,7 +57,8 @@ percent in math and 1.51 percent in reading.
 The average growth masks interesting variability among states that is worth
 exploring. For example, as the screenshot above shows, the District of
 Columbia's public school students improved by 11.13 percent in math
-during the same period. The visualizer helps see how individual states move.
+during the same period. The visualizer helps see how individual states move when
+you click on that state's bubble before pressing play.
 
 --- &radio
 

@@ -67,7 +67,7 @@ percent in math and `r pct.reading.8` percent in reading.
 dc.growth.8 <- round((naep[year == 2013 & gender == "all" & grade == 8 &
                             state == "District of Columbia", scale.score.math] /
         naep[year == 2003 & gender == "all" & grade == 8 &
-                     state == "District of Columbia", scale.score.reading]
+                     state == "District of Columbia", scale.score.math]
         - 1) * 100, 2)
 ```
 

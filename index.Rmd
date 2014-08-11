@@ -26,7 +26,7 @@ test easily, slicing the data based on gender and grade level.
 
 ---
 
-## NAEP Differs from "High-Stakes" State Tests
+## How NAEP Differs from "High-Stakes" State Tests
 
 Some key features of NAEP that distinguish it from some other standardized
 tests that are widely discussed in K-12 education, especially so-called
